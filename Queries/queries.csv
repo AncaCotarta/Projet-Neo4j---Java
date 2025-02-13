@@ -1,0 +1,3 @@
+"q.id","q.query"
+"1","MATCH (n:Neuron) RETURN n;"
+"2","CALL nn.createNeuron('123', '0', 'input', 'softmax');"
